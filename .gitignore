@@ -15,3 +15,10 @@ doc/api/
 # Files generated during tests
 .test_coverage.dart
 coverage/
+.test_runner.dart
+
+# Android studio and IntelliJ
+.idea
+
+# Misc files
+.DS_Store
